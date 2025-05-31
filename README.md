@@ -1,24 +1,23 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212222230158
+# Name: thamizh selvan
+# Date:19.05.2025
 
 
 # AIM:
 To develop the Library Management System using Star UML
 
-# Problem Statement:
-1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
+# Problem Statement
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
-6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
@@ -39,9 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+![Screenshot 2025-05-19 135807](https://github.com/user-attachments/assets/9eb7ccca-a22d-4391-a1ff-ce92aeece76d)
 
 
 # CLASS DIAGRAM
@@ -59,6 +56,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![Screenshot 2025-05-19 135826](https://github.com/user-attachments/assets/3e390232-4799-40d0-affe-ee8691a2581c)
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+![Screenshot 2025-05-19 135843](https://github.com/user-attachments/assets/cd4f9cdc-6770-4795-ad8e-f648deb7c239)
 
 
 # PACKAGE DIAGRAM:
@@ -79,9 +79,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
-
+![Screenshot 2025-05-19 135859](https://github.com/user-attachments/assets/eb2d8c48-916a-40e5-9dae-8b40548d742d)
 
 
 # ACTIVITY DIAGRAM:
@@ -96,15 +94,18 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+![Screenshot 2025-05-19 135914](https://github.com/user-attachments/assets/3475eefc-0041-4e78-9541-39c9312eb99b)
 
 # SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+
+![Screenshot 2025-05-19 135930](https://github.com/user-attachments/assets/826d6506-544e-43c6-b4b1-0fa1f7775235)
+
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
